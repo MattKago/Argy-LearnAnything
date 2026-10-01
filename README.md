@@ -1,4 +1,4 @@
-# 🚀 Argy — Learn Anything, 15 Minutes a Day
+# 🚀 Argsmind — Learn Anything, 15 Minutes a Day
 
 **Argy** is an AI-native mobile learning companion that transforms any topic, syllabus, or document into structured, gamified micro-courses. Combining the habit-forming progression of Duolingo with a deep-space constellation aesthetic, Argy turns passive reading into interactive, daily retention drills.
 
